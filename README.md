@@ -1,13 +1,15 @@
+<h2 > Hi there 👋 I am Monirul Islam</h2>
 <img src="monirul.png" alt="Banner" width="100%" />
 
-<h2 align="center"> Hi there 👋 I am Monirul Islam</h2> 
-<h3 align="center">Experienced in WordPress and Laravel Development</h3>
+ 
+<h3 >Experienced in WordPress and Laravel Development</h3>
 
 <p>Experienced Web Developer with WordPress, PHP, Laravel, JavaScript, and Vue JS expertise. Passionate about creating dynamic, responsive, and high-performance web applications with clean and efficient code. Skilled in custom WordPress development, Laravel backend solutions, and front-end design, ensuring seamless user experiences. Adept at troubleshooting, optimizing website performance, and delivering projects on time.</p>
 
 </hr>
 <h2>Get in touch with me</h2>
 
+📧  [Gmail:  monirulislaminfo909@gmail.com](monirulislaminfo909@gmail.com) </br>
  💼 [LinkedIn](https://www.linkedin.com/in/monirul909/) </br>
  ✖️ [Follow me on X](https://x.com/Md_Monirul_12) </br>
 🌐[Portfolio : https://codermonirul](https://codermonirul)</br>
