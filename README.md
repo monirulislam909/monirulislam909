@@ -1,4 +1,4 @@
-<img src="Untitled (1280 x 640 px).png" alt="Banner" width="100%" />
+<img src="monirul.png" alt="Banner" width="100%" />
 
 <h2 align="center"> Hi there 👋 I am Monirul Islam
 </h2> 
