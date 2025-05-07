@@ -1,5 +1,5 @@
 <h2 > Hi there 👋 I am Monirul Islam</h2>
-<img src="monirul.png" alt="Banner" width="100%" />
+<img src="monir.png" alt="Banner" width="100%" />
 
 ## 💫 About Me: 
 <h3 >Experienced in WordPress and Laravel Development</h3>
